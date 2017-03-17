@@ -1,6 +1,6 @@
 {
     "require": {
-        "php": ">=5.4",
+        "php": ">=5.4.0",
         "illuminate/console": "4.2.*",
         "illuminate/filesystem": "4.2.*",
         "tedivm/jshrink": "1.0.*"
